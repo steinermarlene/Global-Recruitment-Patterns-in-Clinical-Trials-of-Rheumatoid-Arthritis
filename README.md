@@ -1,0 +1,1 @@
+# Global-Recruitment-Patterns-in-Clinical-Trials-of-Rheumatoid-Arthritis

@@ -13,7 +13,8 @@ This repository hosts:
 - **database searches**
 - **data**
 - **risk of bias**
-In the "database searches" folder, the respective search strategy for EMBASE, Cochrane CENTRAL and Medline are provided. The "data" folder contains the studies, main outcomes and countries information. The risk of bias of each study was assessed, an overview is given in the "risk of bias" folder.
+  
+In the `database searches` folder, the respective search strategy for EMBASE, Cochrane CENTRAL and Medline are provided. The `data` folder contains the studies, main outcomes and countries information. The risk of bias of each study was assessed, an overview is given in the `risk of bias` folder.
 
 
 ### How to Use These Files
